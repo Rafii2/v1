@@ -1,13 +1,13 @@
 {
-"name": "kurrxd",
+"name": "Fiixlyz",
 "version": "3.0.0",
-"description": "Script By KurrXd WhatsApp",
+"description": "Script By FiiXd WhatsApp",
 "main": "./config/connect.js",
 "type": "commonjs",
 "scripts": {
 "start": "node ./config/connect.js"
 },
-"author": "KurrXd",
+"author": "FiiXd",
 "license": "ISC",
 "dependencies": {
 "@adiwajshing/baileys": "^4.4.0",
